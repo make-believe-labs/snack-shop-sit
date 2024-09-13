@@ -67,3 +67,9 @@ You run these scripts using the keywords, for example:
 This should install the needed dependencies for running Playwright tests, such as the browsers. Run this first.
 
 Nope, if installing playwright fails or takes too long, put your hand up and let me know. You might need to focus only on the API tests.
+
+### Stackblitz
+
+If you cant get things installed locally, you can run on Stackblitz, but this won't work with Playwright, only the API tests.
+
+<https://stackblitz.com/~/github.com/make-believe-labs/snack-shop-sit>
