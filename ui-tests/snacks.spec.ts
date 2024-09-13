@@ -1,6 +1,6 @@
 import { test, expect } from '@playwright/test';
 
-const snackShopUrl = 'https://lab.fullsnacktester.com/'
+const snackShopUrl = 'https://lab.fullsnacktester.com'
 
 test('test', async ({ page }) => {
     await page.goto(`${snackShopUrl}`);
