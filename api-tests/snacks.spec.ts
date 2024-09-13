@@ -1,7 +1,6 @@
 import { describe, expect, test } from '@jest/globals';
 import * as request from 'supertest'
 
-// const url = 'http://localhost:3000'
 const url = 'https://lab.fullsnacktester.com/api'
 
 describe('Snacks', () => {
